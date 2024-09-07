@@ -1,4 +1,6 @@
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Weyne1&color=6487fa&style=flat"/></p>
 <p align="center"><img src="https://www.codewars.com/users/Weyne1/badges/large" /></p>
+
 
 <!--
 **Weyne1/Weyne1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
