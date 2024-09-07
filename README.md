@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center"><img src="https://www.codewars.com/users/Weyne1/badges/large" /></p>
 
 <!--
