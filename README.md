@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Weyne1&color=b555fa&style=flat" alt="Weyne1"/>
 </p>
 
-<h3 align="center">College student who learning to develop apps and games.</h3>
+<h3 align="center">Developing something fun.</h3>
 
 <p align="center">
   <img src="https://www.codewars.com/users/Weyne1/badges/small" alt="Weyne1"/>
